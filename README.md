@@ -1,4 +1,4 @@
-Anon Aadhaar
+![image](https://github.com/user-attachments/assets/845215a0-4510-412d-a8f1-fbcf2e76c444)Anon Aadhaar
 <p align="center">
   <img src="https://github.com/privacy-scaling-explorations/anon-aadhaar/assets/67648863/b29d784b-610a-4222-8fa5-4a2972e492fd" width="300">
 </p>
@@ -87,7 +87,8 @@ Copy code
 yarn verif-proof
 This will verify the generated proof and print the result to the console.
 
-![The Flow of Software!](image.png)
+![image](https://github.com/user-attachments/assets/e26e9445-2697-483f-92fe-885353789fb0)
+
 
 Verify on-chain
 You can also generate the solidity verifier contract using yarn gen-contracts and deploy it to a blockchain to verify the proof on-chain. You can use this method to convert the generated proof to a format that can be used in the contract.
