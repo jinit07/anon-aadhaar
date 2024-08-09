@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/845215a0-4510-412d-a8f1-fbcf2e76c444)Anon Aadhaar
+Anon Aadhaar
 <p align="center">
   <img src="https://github.com/privacy-scaling-explorations/anon-aadhaar/assets/67648863/b29d784b-610a-4222-8fa5-4a2972e492fd" width="300">
 </p>
